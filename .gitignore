@@ -1,12 +1,32 @@
-# unpacked plugin folders
-plugins/**/*
 
-# files directory where uploads go
-files
+# Created by https://www.gitignore.io/api/macos
 
-# DBMigrate plugin: generated SQL
-db/sql
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
 
-# AssetBundler plugin: generated bundles
-javascripts/bundles
-stylesheets/bundles
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# End of https://www.gitignore.io/api/macos
