@@ -164,7 +164,7 @@ header {
 
 /* Footer ----------------------------------------- */
 footer {
-    height: 50px;
+    height: 55px;
     background-color: #9a9a9a;
 }
 
@@ -173,9 +173,11 @@ footer .container {
 }
 .footer-text {
     font-size: 80%;
+    margin-top: 15px;
 }
 
 .footer-links {
     margin-left: auto;
-    font-size: 80%;
+    margin-top: 10px;
+    font-size: 160%;
 }
